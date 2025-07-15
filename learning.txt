@@ -1,1 +1,1 @@
-one important concept I've grasped is the importance of trying different authenticating methods to provide a safe space for you repos. I have Successfully linked my SSH key to my github account
+What I have learned from this course is the importance of trying different authenticating methods to provide a safe space for you repos. I have Successfully linked my SSH key to my github account
